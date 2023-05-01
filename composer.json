@@ -1,5 +1,5 @@
 {
-    "name": "ghasedak/php",
+    "name": "mdhesari/ghasedak-php",
     "type": "library",
     "description": "ghasedak sms gateway package for PHP",
     "keywords": ["ghasedak", "sms", "api", "sms-gateway", "notification"],
